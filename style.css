@@ -1,0 +1,30 @@
+*{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+div{
+  background-color:rgb(214, 156, 190);
+}
+
+h1{
+  font-weight: 800;
+  text-align: center;
+  color:rgb(134, 122, 122);
+  font-size: 50px;
+}
+
+h2{
+color:rgb(160, 141, 144);
+font-size: 35px;
+text-align: center;
+font-weight:100;
+}
+
+h3 {
+  color: rgb(160, 141, 144);
+  font-size:30;
+
+}
+.stylebox{
+  background-color: rgb(123, 145, 187);
+}
